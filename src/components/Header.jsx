@@ -29,7 +29,7 @@ const Header = ({ setSearchTerm }) => {
       <div>
         <Link to="/cart">
           <button className='px-4 py-2 bg-purple-300 rounded-xl'>
-            <img className="w-8 h-8" src='/src/assets/Cart.png' alt="Cart" />
+            <img className="w-8 h-8" src='https://imgur.com/JsPT6Fr' alt="Cart" />
           </button>
         </Link>
       </div>
