@@ -1,13 +1,13 @@
-### Shoppy-Globe
+# Shoppy-Globe
 
 ## Deployed link - https://shop-py-globe.netlify.app/
 ## Repository Link - https://github.com/Pradeep4710/Shoppy-Globe
 
-# Electronic Device eCommerce Website
+## Electronic Device eCommerce Website
 
 A React-based eCommerce website for browsing and purchasing electronic devices such as mobiles, laptops, and tablets.
 
-## Features
+### Features
 
 - **Product Listings**: Browse a variety of electronic devices.
 - **Search Functionality**: Search products by name.
@@ -15,13 +15,13 @@ A React-based eCommerce website for browsing and purchasing electronic devices s
 - **Cart Component**: Add and manage products in the cart.
 - **Amazon Links**: Redirect to Amazon for purchasing.
 
-## Tech Stack
+### Tech Stack
 
 - **Frontend**: React, React Router, Tailwind CSS
 - **State Management**: React Hooks
 - **Notifications**: react-toastify
 
-## Installation
+### Installation
 
 1. Clone the repository:
    ```bash
